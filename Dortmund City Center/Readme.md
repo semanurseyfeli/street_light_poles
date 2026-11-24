@@ -9,7 +9,7 @@ The dataset is organized into the following subfolders:
 
 - **train-validation/**: Contains the image and annotation splitting code, YOLO-format annotation files and binary footprint masks for the train/validation images.
 - **test/**: Contains the YOLO-format annotation file for the test image.
-- **results/**: Contains the 3D-reconstructed street light pole results for the test areas in PLY format.
+- **results/**: Contains the 3D-reconstructed street light pole results for the test image in PLY format.
 
 ## Object Classes
 
