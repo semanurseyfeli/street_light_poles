@@ -8,9 +8,8 @@ The annotations were prepared for detecting street light pole configurations in 
 
 The dataset is organized into the following subfolders:
 
--**test/**: Contains the YOLO-format annotation file for the test image.
-
--**results/**: Contains the 3D-reconstructed street light pole results for the test image in PLY format.
+- **test/**: Contains the YOLO-format annotation file for the test image.
+- **results/**: Contains the 3D-reconstructed street light pole results for the test image in PLY format.
 
 ## Object Classes
 
