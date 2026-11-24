@@ -10,4 +10,4 @@ The reconstructed results are provided in PLY format.
 - EPSG:25832 – ETRS89 / UTM zone 32N
 - Coordinate units: meters
 
-  The PLY file contains georeferenced 3D reconstruction results in the projected coordinate system specified above.
+The PLY file contains georeferenced 3D reconstruction results in the projected coordinate system specified above.
