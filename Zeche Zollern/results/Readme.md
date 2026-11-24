@@ -2,7 +2,7 @@
 
 ### 3D Reconstruction of Street-Light Poles
 
-This folder contains the 3D reconstruction results of street-light poles for the Zeche Zollern test area in Dortmund, Germany.
+This folder contains the 3D reconstruction results of street light poles for the Zeche Zollern test area in Dortmund, Germany.
 
 The reconstructed street-light poles are provided in **PLY format**.
 
