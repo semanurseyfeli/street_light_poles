@@ -35,7 +35,7 @@ Please also acknowledge the benchmark data providers as required by the dataset 
 
 ## License
 
-The datasets are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license. The Python script is released under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/). See the [LICENSE](https://github.com/semanurseyfeli/street_light_poles/blob/main/LICENSE) file for details.
+The datasets are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license. The Python script is released under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/).
 
 ## References
 
